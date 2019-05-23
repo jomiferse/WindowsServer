@@ -8,11 +8,19 @@ El servidor de Windows 2016 en donde están instalados el servidor DHCP con un r
 
 ### DHCP
 ![DHCP1](dhcp y dns1.PNG)
+
 ![DHCP2](dhcp y dns2.PNG)
+
 ![DHCP3](dhcp y dns3.PNG)
+
 ![DHCP4](dhcp y dns4.PNG)
+
 ![DHCP5](dhcp y dns5.PNG)
+
 ![DHCP6](dhcp y dns6.PNG)
+
 ![DHCP7](dhcp y dns7.PNG)
+
 ![DHCP8](dhcp y dns8.PNG)
+
 ![DHCP9](dhcp y dns9.PNG)
