@@ -7,20 +7,38 @@ El servidor de Windows 2016 en donde están instalados el servidor DHCP con un r
 ## CAPTURAS
 
 ### DHCP
-![DHCP1](dhcp y dns1.PNG)
+![DHCP](dhcp1.PNG)
+![DHCP](dhcp2.PNG)
+![DHCP](dhcp3.PNG)
+![DHCP](dhcp4.PNG)
+![DHCP](dhcp5.PNG)
+![DHCP](dhcp6.PNG)
+![DHCP](dhcp7.PNG)
+![DHCP](dhcp8.PNG)
+![DHCP](dhcp9.PNG)
 
-![DHCP2](dhcp y dns2.PNG)
 
-![DHCP3](dhcp y dns3.PNG)
+### DNS
+![DNS](dns1.PNG)
+![DNS](dns2.PNG)
+![DNS](dns3.PNG)
+![DNS](dns4.PNG)
+![DNS](dns5.PNG)
+![DNS](dns6.PNG)
+![DNS](dns7.PNG)
+![DNS](dns8.PNG)
 
-![DHCP4](dhcp y dns4.PNG)
+![DNS](dnsmaquina1.PNG)
+![DNS](dnsmaquina2.PNG)
 
-![DHCP5](dhcp y dns5.PNG)
+### UNIDAD ORGANIZATIVA
+![AD](unidadorganizativa.PNG)
+![AD](unidadorganizativa2.PNG)
+![AD](unidadorganizativa3.PNG)
 
-![DHCP6](dhcp y dns6.PNG)
+![AD](usuarioscompletos1.PNG)
+![AD](usuarioscompletos2.PNG)
+![AD](usuarioscompletos3.PNG)
 
-![DHCP7](dhcp y dns7.PNG)
-
-![DHCP8](dhcp y dns8.PNG)
-
-![DHCP9](dhcp y dns9.PNG)
+![AD](horas.PNG)
+![AD](equipospermitidos.PNG)
